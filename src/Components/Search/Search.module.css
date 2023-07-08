@@ -1,0 +1,10 @@
+.cardImg img{
+    width:100px;
+    height:100px;
+}
+@media screen and (max-width:550px){
+    .cardImg img {
+        width:80px;
+    height:80px;
+    }
+}

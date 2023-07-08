@@ -1,0 +1,8 @@
+@media screen and (max-width:550px){
+    .navLink{
+        font-size:0.9rem;
+    }
+}
+.dropDown{
+    /* background-color:red; */
+}

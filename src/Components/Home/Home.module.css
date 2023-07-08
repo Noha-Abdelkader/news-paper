@@ -1,0 +1,13 @@
+.bg{
+    filter: blur(3px);
+    padding:0 !important;
+}
+@media screen and (max-width:550px){
+    .swiperSlider{
+        font-size:1.8rem !important;
+     }
+     .slider{
+        padding:0 !important;
+     }
+
+}
